@@ -13,11 +13,14 @@
 
 <img src="./img/파일다운로드.png"/>
     
-    다운로드 받은 폴더에서 dist 폴더로 들어가 준다.
+    다운로드 받은 폴더에서 GetCharImg > dist 폴더로 들어가 준다.
 
-<img src="./img/첫화면.png"/>
+<img src="./img/첫화면0.png"/>
+<img src="./img/첫화면1.png"/>
 
     dist 폴더에서 getImage 실행파일을 실행시킨다.
+    제작자가 개인적으로 만든 프로그렘임으로 허가받지 윈도우에서 경고창이 뜰 수 있다.
+    자세히 보기를 
 
 <img src="./img/실행전.png"/>
 
