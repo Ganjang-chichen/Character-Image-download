@@ -12,13 +12,8 @@
     압축을 해제하자.
 
 <img src="./img/파일다운로드.png"/>
-    
-    다운로드 받은 폴더에서 GetCharImg > dist 폴더로 들어가 준다.
 
-<img src="./img/첫화면0.png"/>
-<img src="./img/첫화면1.png"/>
-
-    dist 폴더에서 getImage 실행파일을 실행시킨다.
+    getImage 실행파일을 실행시킨다.
     
 <img src="./img/실행전.png"/>
 
